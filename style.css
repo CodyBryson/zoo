@@ -1,0 +1,15 @@
+.vortex{
+  background-image: url(portal.gif);
+  background-size: cover;
+}
+body{
+  display:flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+header{
+  min-height: 10px;
+}
+footer{
+  min-height: 10px;
+}
